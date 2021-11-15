@@ -97,14 +97,14 @@ $(document).ready(function() {
   });
 
   const decider = (score, name, age) => {
-    if (score >= 13) {
-      return cSharp(name, age);
-    } else if (score <= 12 || score >= 9) {
-      return python(name, age);
-    } else if (score <= 8 || score >= 5) {
-      return javascript(name, age);
-    } else {
+    if (score <= 5) {
       return ruby(name, age);
+    } else if (score >= 6 && score <= 9) {
+      return javaScript(name, age);
+    } else if (score >= 10 && score <= 13) {
+      return python(name, age);
+    } else {
+      return cSharp(name, age);
     }
   };
 
