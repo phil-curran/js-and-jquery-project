@@ -14,7 +14,9 @@
 
 ## Description
 
-Users choose which programming language they should learn based on completely unrelated personal preferences, like favorite desserts and movie villains.  This was intended to mimic (mock?) various Buzzfeed-styled quizzes. Users click on pictures to indicate their preferences for their 1) favorite dessert, 2) desired pet, 3) favorite movie villain, and 4) preferred questions.  A fifth question uses a form to gather the user's name and age so the response can be customized based on personal info.  
+Users choose which programming language they should learn based on completely unrelated personal preferences, like favorite desserts and movie villains.  This was intended to mimic (mock?) various Buzzfeed-styled quizzes. 
+
+Users click on pictures to indicate their preferences for their 1) favorite dessert, 2) desired pet, 3) favorite movie villain, and 4) preferred questions.  A fifth question uses a form to gather the user's name and age so the response can be customized based on personal info.  
 
 
 ## Setup/Installation Requirements
